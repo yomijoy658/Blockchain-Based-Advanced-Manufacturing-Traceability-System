@@ -9,3 +9,5 @@ U
 %contracts/material-certification.clar,d/d/ddda49da0d0cc6c4b9d65d85e1c47f05aa0888c1
 S
 #contracts/quality-verification.clar,0/f/0f33966a4a4d7d8e923cbc03bfda79d5ba391cc4
+T
+$contracts/supplier-verification.clar,1/e/1eeafa16bd5f2c0aa8a2cf22d6d886e3463492c6
